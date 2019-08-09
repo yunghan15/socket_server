@@ -1,0 +1,15 @@
+C:\Users\Cleo\source\repos\socket_server\socket_server\bin\Debug\socket_server.exe.config
+C:\Users\Cleo\source\repos\socket_server\socket_server\bin\Debug\socket_server.exe
+C:\Users\Cleo\source\repos\socket_server\socket_server\bin\Debug\socket_server.pdb
+C:\Users\Cleo\source\repos\socket_server\socket_server\obj\Debug\socket_server.csprojAssemblyReference.cache
+C:\Users\Cleo\source\repos\socket_server\socket_server\obj\Debug\MainWindow.g.cs
+C:\Users\Cleo\source\repos\socket_server\socket_server\obj\Debug\App.g.cs
+C:\Users\Cleo\source\repos\socket_server\socket_server\obj\Debug\socket_server_MarkupCompile.cache
+C:\Users\Cleo\source\repos\socket_server\socket_server\obj\Debug\socket_server_MarkupCompile.lref
+C:\Users\Cleo\source\repos\socket_server\socket_server\obj\Debug\MainWindow.baml
+C:\Users\Cleo\source\repos\socket_server\socket_server\obj\Debug\socket_server.g.resources
+C:\Users\Cleo\source\repos\socket_server\socket_server\obj\Debug\socket_server.Properties.Resources.resources
+C:\Users\Cleo\source\repos\socket_server\socket_server\obj\Debug\socket_server.csproj.GenerateResource.cache
+C:\Users\Cleo\source\repos\socket_server\socket_server\obj\Debug\socket_server.csproj.CoreCompileInputs.cache
+C:\Users\Cleo\source\repos\socket_server\socket_server\obj\Debug\socket_server.exe
+C:\Users\Cleo\source\repos\socket_server\socket_server\obj\Debug\socket_server.pdb

@@ -1,0 +1,18 @@
+﻿<Window x:Class="socket_server.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:socket_server"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="600">
+    <Grid Background="#FFFFFFCF">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="239*"/>
+            <ColumnDefinition Width="48*"/>
+            <ColumnDefinition Width="9*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="text1" HorizontalAlignment="Left" Height="295" Margin="18,36,0,0" TextWrapping="Wrap" Width="432" VerticalAlignment="Top" FontSize="16"/>
+        <Button Content="LISTEN" HorizontalAlignment="Left" Margin="0,36,0,0" VerticalAlignment="Top" Width="90" Height="56" Click="Button_Click" Background="#FFFFFEF1" Grid.Column="1" FontSize="18"/>
+    </Grid>
+</Window>
